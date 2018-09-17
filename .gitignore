@@ -1,0 +1,6 @@
+*.pyc
+config.cfg
+privkey.pem
+cacert.pem
+config.yml
+config.ini
